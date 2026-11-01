@@ -132,9 +132,6 @@ The application interface is crafted around high-density information architectur
 | **Rapid Mark Entry Matrix** | <img src="assets/rapid-mark-entry.png" width="380" alt="Rapid Mark Entry Matrix" /> | Spreadsheet-style continuous mark ledger with live statistical calculation and absentee toggles. |
 | **Student 360 Profile** | <img src="assets/student-profile.png" width="380" alt="Student 360 Profile" /> | Comprehensive performance analytics comparing individual test trends with cohort averages. |
 | **A4 Printable Progress Report** | <img src="assets/progress-report.png" width="380" alt="A4 Printable Progress Report" /> | Print-optimized official academic report card with institutional branding and signature blocks. |
-| **Milestone Journey Timeline** | *(Asset pending)* | Chronological event log recording enrollments, test achievements, PTM discussions, and remarks. |
-| **Parent Meeting Canvas** | *(Asset pending)* | Clean presentation mode tailored for distraction-free parent-teacher discussions. |
-| **Mobile Adaptive Layout** | *(Asset pending)* | Slide-over navigation drawer and responsive mobile data entry on compact screens. |
 
 ---
 
