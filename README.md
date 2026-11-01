@@ -123,29 +123,22 @@ The application interface is crafted around high-density information architectur
 
 ## 11. Screenshots
 
-Screenshots will be placed in an `/assets` folder.
-
-| Screen | Description / Suggested Caption |
-| :--- | :--- |
-| Executive Dashboard | KPI Bento Grid showing active cohorts, average score distributions, and the early-warning attention monitor. |
-| Student Directory | Searchable directory with batch filters, academic badges, and quick-action navigation. |
-| Rapid Mark Entry Matrix | Spreadsheet-style continuous mark ledger with live statistical calculation and absentee toggles. |
-| Student 360 Profile | Comprehensive performance analytics comparing individual test trends with cohort averages. |
-| Milestone Journey Timeline | Chronological event log recording enrollments, test achievements, PTM discussions, and remarks. |
-| Parent Meeting Canvas | Clean presentation mode tailored for distraction-free parent-teacher discussions. |
-| A4 Printable Progress Report | Print-optimized official academic report card with institutional branding and signature blocks. |
-| Mobile Adaptive Layout | Slide-over navigation drawer and responsive mobile data entry on compact screens. |
-
----
-
-## 12. Demo
-
-* **Interactive Sandbox / Live Demo:** [CONFIRM: Insert Live Demo URL if applicable]
-* **Video Walkthrough:** [CONFIRM: Insert Loom / YouTube link]
+| Screen | Preview | Description / Suggested Caption |
+| :--- | :---: | :--- |
+| **Executive Dashboard** | <img src="assets/executive-dashboard.png" width="380" alt="Executive Dashboard" /> | KPI Bento Grid showing active cohorts, average score distributions, and the early-warning attention monitor. |
+| **Batch Management** | <img src="assets/batch-management.png" width="380" alt="Batch Management" /> | Cohort-level batch management detailing student counts, assigned curriculum boards, and academic schedules. |
+| **Student Directory** | <img src="assets/student-directory.png" width="380" alt="Student Directory" /> | Searchable directory with batch filters, academic badges, and quick-action navigation. |
+| **Test Management** | <img src="assets/test-management.png" width="380" alt="Test Management" /> | Central assessment engine to schedule exams, define maximum marks, and log continuous outcomes. |
+| **Rapid Mark Entry Matrix** | <img src="assets/rapid-mark-entry.png" width="380" alt="Rapid Mark Entry Matrix" /> | Spreadsheet-style continuous mark ledger with live statistical calculation and absentee toggles. |
+| **Student 360 Profile** | <img src="assets/student-profile.png" width="380" alt="Student 360 Profile" /> | Comprehensive performance analytics comparing individual test trends with cohort averages. |
+| **A4 Printable Progress Report** | <img src="assets/progress-report.png" width="380" alt="A4 Printable Progress Report" /> | Print-optimized official academic report card with institutional branding and signature blocks. |
+| **Milestone Journey Timeline** | *(Asset pending)* | Chronological event log recording enrollments, test achievements, PTM discussions, and remarks. |
+| **Parent Meeting Canvas** | *(Asset pending)* | Clean presentation mode tailored for distraction-free parent-teacher discussions. |
+| **Mobile Adaptive Layout** | *(Asset pending)* | Slide-over navigation drawer and responsive mobile data entry on compact screens. |
 
 ---
 
-## 13. Future Scope
+## 12. Future Scope
 
 * **AI-Powered Personalized Report Remarks:** Automated synthesis of student test histories to generate supportive, constructive teacher remarks for report cards.
 * **Instant Parent Messaging Integration:** One-click automated distribution of test results, attendance notifications, and PTM summaries via WhatsApp or SMS.
@@ -155,11 +148,7 @@ Screenshots will be placed in an `/assets` folder.
 
 ---
 
-
----
-
-## 15. Note on Source Code & Confidentiality
+## 13. Note on Source Code & Confidentiality
 
 ### Confidentiality Notice
 The complete source code, proprietary business logic, and database schemas for this software are proprietary and subject to a non-disclosure agreement (NDA) as part of an active client engagement. To honor client confidentiality, the underlying code repository remains private. An architectural walkthrough, code structural details, or a live feature demonstration can be shared directly with hackathon judges upon request.
-
